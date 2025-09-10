@@ -1,0 +1,7 @@
+com.bearmod.shared-pngs-0 D:\injector\BearLicense\shared\build\generated\res\pngs\release
+com.bearmod.shared-resValues-1 D:\injector\BearLicense\shared\build\generated\res\resValues\release
+com.bearmod.shared-mergeReleaseResources-2 D:\injector\BearLicense\shared\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.bearmod.shared-mergeReleaseResources-3 D:\injector\BearLicense\shared\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.bearmod.shared-release-4 D:\injector\BearLicense\shared\build\intermediates\merged_res\release\mergeReleaseResources
+com.bearmod.shared-main-5 D:\injector\BearLicense\shared\src\main\res
+com.bearmod.shared-release-6 D:\injector\BearLicense\shared\src\release\res
